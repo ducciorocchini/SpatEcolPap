@@ -66,6 +66,12 @@ The paper tests the model suggested by Coudun et al (2006) but does this using a
 ## 2.2 Review of spatial methods in ecology and conservation 
 \textbf{TBC - Duccio?}
 
+Understanding species distribution is a key concept in ecological research, in particular when dealing with biodiversity monitoring for conservation practices. Several papers have dealt with the importance of explicitly taking space into account when trying to model the distribution of a certain species, and, overall, its change in space and time.
+
+how non stationarity might affect results
+
+
+
 
 # 3. Methods
 
